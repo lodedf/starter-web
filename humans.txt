@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Lode De Feyter 	 lode.de.feyter@telenetgroup.be
 
 # THANKS
 
