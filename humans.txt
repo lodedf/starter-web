@@ -9,6 +9,7 @@
 
     Thanks to all my students
 	This text got added while in master branch. after committing change to another file in a feature branch.
+	Please leave a review if you liked this cource.
 
 # TECHNOLOGY COLOPHON
 
